@@ -1,20 +1,36 @@
-# 📝 Keep Notes Clone
+# Keeper App
 
-A minimal note-taking web app built with **React**, inspired by **Google Keep**.
+A **full-stack note-taking application** inspired by Google Keep, built with **React**, **Node.js**, **Express.js**, and **PostgreSQL**.  
+The app allows users to **create, edit, and delete notes** with persistent storage, responsive UI, and a seamless user experience.
 
-## ✨ Features
-- ➕ Create new notes
-- ✏️ Edit existing notes
-- 🗑️ Delete notes
-- 📱 Responsive and clean UI
-- ⚡ Real-time updates with React state management
+---
+
+## 🚀 Features
+- 📝 **Create, edit, and delete notes** in real-time.
+- 🎨 **Responsive and mobile-friendly UI** built with React.
+- 🔄 **Real-time synchronization** between frontend and backend via RESTful APIs.
+- 💾 **Persistent storage** using PostgreSQL.
+- ⚡ **Optimized API performance** with efficient queries and indexing.
+- 🔐 **Secure backend** built with Node.js and Express.js.
+
+---
 
 ## 🛠 Tech Stack
-- **Frontend:** React, CSS
-- **State Management:** React Hooks
+**Frontend:**
+- React.js
+- JavaScript (ES6+)
+- HTML5, CSS3
 
-## 🚀 Installation
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/keep-notes-clone.git
-  
+**Backend:**
+- Node.js
+- Express.js
+- RESTful API
+
+**Database:**
+- PostgreSQL
+
+**Other Tools:**
+- Git & GitHub
+- npm / yarn
+
+---
